@@ -2,38 +2,32 @@
 
 # Hi!
 
-## my Name is **ddongule**
+## my Name is **Mayank**
 
-## I am Software Engineer
+## I am Year 4 Computer 
 
-## **Professional in Front-End**
-
-<br />
-
-### My Github is .. [www.github.com/ddongule](www.github.com/ddongule)
+## Engineering Student
 
 <br />
 
-## - +R+Red HighLight+R+
-
-## - +G+Green HighLight+G+
-
-## - +B+Blue HighLight+B+
-
-<br /><br />
-
-I am Good at `React.js`, `HTML/CSS(SASS)`, `Javascript`!
-
-& Check List (Black & White)
-
-- Check List (Highlight)
+## +R+Just Trying New Things+R+
 
 <br />
 
-1. Ordered List
-2. Ordered List
-3. Ordered List
-4. Ordered List
+### I'm Interested in
+
+<br />
+
+### - Software Engineering
+
+### - Data Engineering
+
+### - Cloud  
+
+### - Robotics
+
+### - Coffee
+
 
 <br />
 <br />

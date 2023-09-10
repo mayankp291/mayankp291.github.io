@@ -1,0 +1,21 @@
+"timestamp": [
+    {
+      "title": "Woowa Sisters",
+      "when": "21.12 ~ ",
+      "organizer": "Woowa Sisters",
+      "tags": ["company"]
+    },
+
+    {
+      "title": "2021 Woowa Tech Course 3th",
+      "when": "21.02.01 - 21.11.31",
+      "organizer": "Woowa Bros",
+      "tags": ["techcourse"]
+    },
+    {
+      "title": "우아한 대학교 (Woowa University)",
+      "when": "20.08.25",
+      "organizer": "University of Woowa",
+      "tags": ["graduation"]
+    }
+  ],

@@ -9,7 +9,7 @@
     "profileImg": "../assets/images/me.gif",
     "email": "mayankp@u.nus.edu",
     "githubUrl": "https://github.com/mayankp291",
-    "linkedInUrl": "https://www.linkedin.com/"
+    "linkedInUrl": "https://www.linkedin.com/mayank-panjiyara"
   },
 
   "skillSets": [
@@ -93,56 +93,35 @@
     }
   ],
 
-  "timestamp": [
-    {
-      "title": "Woowa Sisters",
-      "when": "21.12 ~ ",
-      "organizer": "Woowa Sisters",
-      "tags": ["company"]
-    },
-
-    {
-      "title": "2021 Woowa Tech Course 3th",
-      "when": "21.02.01 - 21.11.31",
-      "organizer": "Woowa Bros",
-      "tags": ["techcourse"]
-    },
-    {
-      "title": "우아한 대학교 (Woowa University)",
-      "when": "20.08.25",
-      "organizer": "University of Woowa",
-      "tags": ["graduation"]
-    }
-  ],
 
   "experiences": [
     {
       "imgUrl": "/assets/images/example-image-dark.png",
       "title": "[Data Engineer Intern] Keysight Technologies",
       "term": "23.06 - Present",
-      "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "experienceUrl": "https://woowacourse.github.io/"
+      "description": "Transitioned 12 internal Spark Batch Jobs written in Scala from client to cluster mode, significantly improving performance and resource utilization. Configured Apache Airflow using Kubernetes and Docker to effectively manage thousands of daily batch job runs, ensuring reliability and observability.",
+      "experienceUrl": "https://www.keysight.com/sg/"
     },
     {
       "imgUrl": "/assets/images/example-image-light.png",
       "title": "[Cloud Engineer Intern] Singtel",
       "term": "22.06 - 22.08",
-      "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia .. ",
-      "experienceUrl": "https://woowacourse.github.io/"
+      "description": "Coordinated a major technology refresh, migrating core business apps from on premises to Azure cloud.Identified an application for code analysis, resulting in a 90% reduction in refactor time for legacy code bases.Conducted proof-of-concepts (POCs) evaluating diverse cloud migration strategies, including containerization, microservices, and lift-and-shift approaches.",
+      "experienceUrl": "https://www.singtel.com/personal"
     },
     {
       "imgUrl": "/assets/images/example-image-light.png",
       "title": "[Undergraduate Researcher] National University of Singapore",
-      "term": "22.06 - 22.08",
-      "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia .. ",
-      "experienceUrl": "https://woowacourse.github.io/"
+      "term": "22.08 - 23.06",
+      "description": "Independently conducted research at the Mechatronics and Automation Laboratory, focusing on stabilizing visual odometry for TurtleBot 3 using a monocular RPi v1 camera. Implemented state-of-the-art visual SLAM technique ORB-SLAM3, using Python on ROS Noetic (Robot Operating System) and OpenCV.",
+      "experienceUrl": "https://nus.edu.sg/"
     },
     {
       "imgUrl": "/assets/images/example-image-light.png",
       "title": "[Teaching Assistant] National University of Singapore",
-      "term": "22.06 - 22.08",
-      "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia .. ",
-      "experienceUrl": "https://woowacourse.github.io/"
+      "term": "22.01 - 23.06",
+      "description": "Mentored 60+ students in Real-Time Operating Systems and Robotics over multiple semesters, emphasizing C programming for Keil RTX OS. Covered advanced topics, including Semaphores, Events, Threads and SLAM. Guided students in creating a remote-controlled Search and Rescue (SAR) robot, incorporating LIDAR technology.",
+      "experienceUrl": "https://nus.edu.sg/"
     }
   ],
 
