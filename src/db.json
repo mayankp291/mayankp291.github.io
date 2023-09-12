@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Mayank's Website",
+    "title": "Portfolio",
     "defaultLanguage": "English"
   },
   "aboutMe": {
@@ -20,7 +20,8 @@
         { "skill": "Java"},
         { "skill": "Scala" },
         { "skill": "Python"},
-        { "skill": "Javascript"}
+        { "skill": "Javascript"},
+        { "skill": "Solidity"}
       ]
     },
     {
@@ -45,7 +46,8 @@
         { "skill": "CI/CD"},
         { "skill": "Git"},
         { "skill": "Bash Scripting"},
-        { "skill": "Unix/Linux" }
+        { "skill": "Unix/Linux" },
+        {"skill": "Apache Airflow"}
       ]
     }
   ],
@@ -53,8 +55,8 @@
   "projects": [
     {
       "imgUrl": "",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
+      "githubUrl": "https://github.com/mayankp291/CG4002-Capstone-LaserTag-Plus",
+      "projectUrl": "https://github.com/mayankp291/CG4002-Capstone-LaserTag-Plus",
       "title": "LaserTag++",
       "term": "Capstone Project for NUS Computer Engineering",
       "description": "A multiplayer laser tag game with hand actions powered by Machine Learning",
@@ -63,8 +65,8 @@
     },
     {
       "imgUrl": "/assets/images/example-image-light.png",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
+      "githubUrl": "https://github.com/EGSC-NUS-Rainbow-Centre-IPS",
+      "projectUrl": "https://github.com/EGSC-NUS-Rainbow-Centre-IPS",
       "title": "Geofencing",
       "term": "Enginering Society for Good (EGSC)",
       "description": "A web application to track GPS location of specially-abled students inside the school. Made for Rainbow Centre Singapore. ",
@@ -73,8 +75,18 @@
     },
     {
       "imgUrl": "/assets/images/example-image-light.png",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
+      "githubUrl": "https://github.com/Pixelat-e/dapp",
+      "projectUrl": "https://github.com/Pixelat-e/dapp",
+      "title": "Pixelate",
+      "term": "NUS Fintech Hackathon",
+      "description": "An easy all-in-one platform for founders without technical skills to create their NFT community, while allowing members to freely customize their personal NFT.",
+      "attribution": "Its written using Notus React, tailwindCSS and Solidity. The Solidity contract automatically mints the art on the Polygon MATIC blockchain and deploys it to the Openseas account linked to the MetaMask wallet used by the user.",
+      "tags": ["Notus React", "Tailwind CSS", "Solidity"]
+    },
+    {
+      "imgUrl": "/assets/images/example-image-light.png",
+      "githubUrl": "https://github.com/AY2122S1-CS2113T-T09-1/tp",
+      "projectUrl": "https://github.com/AY2122S1-CS2113T-T09-1/tp",
       "title": "ConTech",
       "term": "v1",
       "description": "A contact management application for computing professionals to enhance productivity with custom fields and a UNIX-like syntax.",
@@ -83,41 +95,42 @@
     },
     {
       "imgUrl": "/assets/images/example-image-light.png",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
+      "githubUrl": "https://github.com/mayankp291/lowkey",
+      "projectUrl": "https://github.com/mayankp291/lowkey",
       "title": "Lowkey",
       "term": "Orbital",
       "description": "Password manager and 2FA web extension to autofill passwords and OTPs, along with data synchronization across devices via the cloud",
       "attribution": "The main app was made using Vue.js and Tailwind CSS. The Chrome extension was made using the Chrome API. The backend was made using Firebase.",
       "tags": ["Vue.js", "Tailwind CSS", "Firebase", "Speakeasy", "Chrome API"]
     }
+
   ],
 
 
   "experiences": [
     {
-      "imgUrl": "/assets/images/example-image-dark.png",
+      "imgUrl": "/assets/images/keysight.png",
       "title": "[Data Engineer Intern] Keysight Technologies",
       "term": "23.06 - Present",
       "description": "Transitioned 12 internal Spark Batch Jobs written in Scala from client to cluster mode, significantly improving performance and resource utilization. Configured Apache Airflow using Kubernetes and Docker to effectively manage thousands of daily batch job runs, ensuring reliability and observability.",
       "experienceUrl": "https://www.keysight.com/sg/"
     },
     {
-      "imgUrl": "/assets/images/example-image-light.png",
+      "imgUrl": "/assets/images/singtel_new_logo.png",
       "title": "[Cloud Engineer Intern] Singtel",
       "term": "22.06 - 22.08",
-      "description": "Coordinated a major technology refresh, migrating core business apps from on premises to Azure cloud.Identified an application for code analysis, resulting in a 90% reduction in refactor time for legacy code bases.Conducted proof-of-concepts (POCs) evaluating diverse cloud migration strategies, including containerization, microservices, and lift-and-shift approaches.",
+      "description": "Coordinated a major technology refresh, migrating core business apps from on premises to Azure cloud. Identified an application for code analysis, resulting in a 90% reduction in refactor time for legacy code bases. Conducted proof-of-concepts (POCs) evaluating diverse cloud migration strategies, including containerization, microservices, and lift-and-shift approaches.",
       "experienceUrl": "https://www.singtel.com/personal"
     },
     {
-      "imgUrl": "/assets/images/example-image-light.png",
+      "imgUrl": "/assets/images/nus.png",
       "title": "[Undergraduate Researcher] National University of Singapore",
       "term": "22.08 - 23.06",
       "description": "Independently conducted research at the Mechatronics and Automation Laboratory, focusing on stabilizing visual odometry for TurtleBot 3 using a monocular RPi v1 camera. Implemented state-of-the-art visual SLAM technique ORB-SLAM3, using Python on ROS Noetic (Robot Operating System) and OpenCV.",
       "experienceUrl": "https://nus.edu.sg/"
     },
     {
-      "imgUrl": "/assets/images/example-image-light.png",
+      "imgUrl": "/assets/images/nus.png",
       "title": "[Teaching Assistant] National University of Singapore",
       "term": "22.01 - 23.06",
       "description": "Mentored 60+ students in Real-Time Operating Systems and Robotics over multiple semesters, emphasizing C programming for Keil RTX OS. Covered advanced topics, including Semaphores, Events, Threads and SLAM. Guided students in creating a remote-controlled Search and Rescue (SAR) robot, incorporating LIDAR technology.",
