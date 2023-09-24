@@ -97,7 +97,7 @@
   "experiences": [
     {
       "imgUrl": "/assets/images/example-image-dark.png",
-      "title": "[Data Engineer Intern] Keysight Technologies",
+      "title": "[Software Engineer Intern] Keysight Technologies",
       "term": "23.06 - Present",
       "description": "Transitioned 12 internal Spark Batch Jobs written in Scala from client to cluster mode, significantly improving performance and resource utilization. Configured Apache Airflow using Kubernetes and Docker to effectively manage thousands of daily batch job runs, ensuring reliability and observability.",
       "experienceUrl": "https://www.keysight.com/sg/"
