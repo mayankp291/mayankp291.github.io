@@ -23,9 +23,9 @@ const ProjectItem = ({
         target='_blank'
         rel='noopener noreferrer'
       >
-        <div className='item__image'>
+        {/* <div className='item__image'>
           <img src={imgUrl} alt={`${title} logo 이미지`} onError={addDefaultSrc} />
-        </div>
+        </div> */}
         <div className='item__details'>
           <div className='title'>
             {title} <span className='term'>({term})</span>
